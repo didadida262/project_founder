@@ -1,6 +1,6 @@
 {
   "compilerOptions": {
-    "types": ["tailwindcss"],
+    "types": ["tailwindcss","react", "react-dom"],
     "target": "ESNext",
     "module": "commonjs",
     "lib": ["dom", "es2015", "es2016", "es2017"],
